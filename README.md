@@ -21,15 +21,23 @@
 --->
 **🎯 Graph**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHANDANMCA790&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=folse)](https://github.com/CHANDANMCA790/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHANDANMCA790&theme=radical&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=folse)](https://github.com/CHANDANMCA790/github-readme-activity-graph)
 
 **🎯 Status**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANDANMCA790&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com?user=CHANDANMCA790&theme=radical)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHANDANMCA790&theme=radical) 
+
+**🎯 Streak**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CHANDANMCA790&theme=radical)](https://git.io/streak-stats)
 
 **🎯 Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDANMCA790&show_icons=true&count_private=true&hide_border=folse&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> <img src="https://github-profile-trophy.vercel.app/?username=CHANDANMCA790&theme=dracula&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDANMCA790&theme=radical&show_icons=true&count_private=true&hide_border=folse&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+
+**🎯 Trophy**
+
+<img src="https://github-profile-trophy.vercel.app/?username=CHANDANMCA790&theme=radical&row=2&no-bg=true&column=3&margin-w=20&margin-h=20" />
 
 **🎯 Key competencies**
 
