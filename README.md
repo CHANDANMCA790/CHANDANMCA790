@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f8d847&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8d847&size=35&center=true&vCenter=true&width=1000&lines=Hello;+I'm+Chandan+Kumar;I'm+23+Years+Old;I'm+From+Bihar+India;I'm+Mobile+Application+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8d847&size=35&center=true&vCenter=true&width=1000&lines=Hello;+I'm+Chandan+Kumar;I'm+23+Years+Old;I'm+From+Bihar+India;I'm+Mobile+Application+Development;Be+Welcome!+:%29)
 
 ![logo](https://github.com/CHANDANMCA790/CHANDANMCA790/blob/master/Chandan%20Software%20Development%20Company.png)
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)
+![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)
+![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
@@ -21,7 +21,7 @@
 --->
 **🎯 Graph**
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHANDANMCA790&theme=radical&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=folse)](https://github.com/CHANDANMCA790/github-readme-activity-graph)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHANDANMCA790&theme=radical&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=folse)
 
 **🎯 Status**
 
@@ -29,7 +29,7 @@
 
 **🎯 Streak**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CHANDANMCA790&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=CHANDANMCA790&theme=radical)
 
 **🎯 Languages**
 
